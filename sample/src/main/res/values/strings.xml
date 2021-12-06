@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Week View</string>
+    <string name="action_today">Today</string>
+    <string name="action_day_view">Day view</string>
+    <string name="action_three_day_view">3 day view</string>
+    <string name="action_week_view">Week view</string>
+    <string name="title_activity_user_input">Detail of Job</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="takePhoto">Add Photo</string>
+    <string name="recordAudio">Record Audio</string>
+    <string name="StopRecord">Stop Record</string>
+    <string name="PlayRecord">Play</string>
+    <string name="sentSMS">Send SMS</string>
+    <string name="repeatDay">Repeat</string>
+    <string name="repeat_prompt">Please Choose</string>
+</resources>

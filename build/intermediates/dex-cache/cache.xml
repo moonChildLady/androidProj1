@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/baobaming/Documents/androidProject/Android-Week-View_todo/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/baobaming/Documents/androidProject/Android-Week-View_todo/sample/build/intermediates/pre-dexed/debug/classes-23ae6f5ad3eb61ed502f65a0a63d752b138e4d2f.jar" />
+    </item>
+    <item
+        jar="/Users/baobaming/Documents/androidProject/Android-Week-View_todo/sample/build/intermediates/exploded-aar/com.github.alamkanak/library/1.2.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e791d74eab80333d2b7412ce94dfed06e562eba1">
+        <dex dex="/Users/baobaming/Documents/androidProject/Android-Week-View_todo/sample/build/intermediates/pre-dexed/debug/classes-a9619fa700ee7095d8fffce9f6a941b2945353d0.jar" />
+    </item>
+    <item
+        jar="/Users/baobaming/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/baobaming/Documents/androidProject/Android-Week-View_todo/sample/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-bd1cf41579a63e900f32dc44141be89acc9cd837.jar" />
+    </item>
+    <item
+        jar="/Users/baobaming/Documents/androidProject/Android-Week-View_todo/sample/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/baobaming/Documents/androidProject/Android-Week-View_todo/sample/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e26232d2ce0e92bca32200f28f0b6396fe92afc2.jar" />
+    </item>
+    <item
+        jar="/Users/baobaming/Documents/androidProject/Android-Week-View_todo/sample/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/baobaming/Documents/androidProject/Android-Week-View_todo/sample/build/intermediates/pre-dexed/debug/classes-bb786244d48d8282d8cba315ce55e8e5672abfcd.jar" />
+    </item>
+
+</items>
