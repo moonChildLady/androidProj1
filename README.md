@@ -16,6 +16,6 @@
 
 | ![demo1.png](https://github.com/moonChildLady/androidProj1/blob/main/images/screenshot/device-2015-08-25-020123.png?raw=true) | 
 | ![demo1.png](https://github.com/moonChildLady/androidProj1/blob/main/images/screenshot/device-2015-08-25-020141.png?raw=true) | 
-| ![demo1.png](https://github.com/moonChildLady/androidProj1/blob/main/images/device-2015-08-25-020057.png?raw=true) | 
+| ![demo1.png](https://github.com/moonChildLady/androidProj1/blob/main/images/screenshot/device-2015-08-25-020057.png?raw=true) | 
 |:--:| 
 | *Create a job/event for house keeper* |
